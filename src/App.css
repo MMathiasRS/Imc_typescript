@@ -1,0 +1,13 @@
+.bgblue {
+  margin-top: 10px;
+  color: black;
+  padding: 10px;
+  border-radius: 25px;
+}
+.bg-blue {
+  background-color: rgb(165, 247, 247);
+}
+
+.bg-red {
+  background-color: brown;
+}
